@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/goit-react-practic1ak/static/css/main.021902bb.chunk.css",
+    "main.js": "/goit-react-practic1ak/static/js/main.f9dac434.chunk.js",
+    "main.js.map": "/goit-react-practic1ak/static/js/main.f9dac434.chunk.js.map",
+    "runtime-main.js": "/goit-react-practic1ak/static/js/runtime-main.51942dfe.js",
+    "runtime-main.js.map": "/goit-react-practic1ak/static/js/runtime-main.51942dfe.js.map",
+    "static/js/2.b9f06ab2.chunk.js": "/goit-react-practic1ak/static/js/2.b9f06ab2.chunk.js",
+    "static/js/2.b9f06ab2.chunk.js.map": "/goit-react-practic1ak/static/js/2.b9f06ab2.chunk.js.map",
+    "index.html": "/goit-react-practic1ak/index.html",
+    "static/css/main.021902bb.chunk.css.map": "/goit-react-practic1ak/static/css/main.021902bb.chunk.css.map",
+    "static/js/2.b9f06ab2.chunk.js.LICENSE.txt": "/goit-react-practic1ak/static/js/2.b9f06ab2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.51942dfe.js",
+    "static/js/2.b9f06ab2.chunk.js",
+    "static/css/main.021902bb.chunk.css",
+    "static/js/main.f9dac434.chunk.js"
+  ]
+}
