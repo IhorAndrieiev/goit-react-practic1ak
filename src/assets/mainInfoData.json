@@ -1,0 +1,30 @@
+{
+  "costsMainInfo": [
+    {
+      "period": "День-Today",
+      "total": "0.00"
+    },
+    {
+      "period": "Неделя-Week",
+      "total": "0.00"
+    },
+    {
+      "period": "Месяц-Month",
+      "total": "0.00"
+    }
+  ],
+
+  "incomesMainInfo": [
+    {
+      "period": "Месяц-Month",
+      "total": "0.00"
+    }
+  ],
+
+  "balanceMainInfo": [
+    {
+      "period": "Все время-All time",
+      "total": "0.00"
+    }
+  ]
+}
